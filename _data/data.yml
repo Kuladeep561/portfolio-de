@@ -3,20 +3,20 @@
 #
 
 sidebar:
-    position: right # position of the sidebar : left or right
+    position: right # position of the sidebar: left or right
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: True # set to False if you want education in the main section instead of in the sidebar
 
     # Profile information
     name: Kuladeep Karimpati
-    tagline: Data Engineer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    tagline: Dateningenieur
+    avatar: profile.png # place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: kuladeep127@gmail.com
     phone: 0179 4286444
     timezone: Germany/CET
-    citizenship: Indian
+    citizenship: Indisch
     linkedin: kuladeep-karimpati-637b16199
     website: #
     xing: Kuladeep_Karimpati
@@ -31,77 +31,70 @@ sidebar:
     pdf: #
 
     languages:
-      title: Languages
+      title: Sprachen
       info:
+        - idiom: Deutsch
+          level: Basic, A2
 
-        - idiom: German
-          level: Basic,A2
-
-        - idiom: English
-          level: Professional
+        - idiom: Englisch
+          level: Professionell
 
         - idiom: Telugu
-          level: Native
+          level: Muttersprache
 
     interests:
-      title: Interests
+      title: Interessen
       info:
         - item: Cricket
           link:
 
-        - item: Movies and Series
+        - item: Filme und Serien
           link:
 
-        - item: Cooking
+        - item: Kochen
           link:
 
 career-profile:
-    title: Career Profile
+    title: Berufsprofil
     summary: |
-      Versatile professional skilled in data analysis, software development, and ETL development, seeking a Data Engineer role.
-      Proven expertise in python, SQL, ETL tools, and cross-functional collaboration. Recognized for innovative solutions, including construction chatbots and BIM dashboards.
-      Proficient in Python, PowerBI, and JS. Eager to contribute to dynamic data engineering projects for impactful insights.
+      Vielseitiger Profi mit Fähigkeiten in Datenanalyse, Softwareentwicklung und ETL-Entwicklung sucht eine Rolle als Dateningenieur.
+      Nachgewiesene Expertise in Python, SQL, ETL-Tools und interdisziplinärer Zusammenarbeit. Anerkannt für innovative Lösungen, einschließlich dem Bau von Chatbots und BIM-Dashboards.
+      Versiert in Python, PowerBI und JS. Freue mich darauf, zu dynamischen Datenprojekten für wirkungsvolle Erkenntnisse beizutragen.
+
 education:
-    title: Education
+    title: Bildung
     info:
       - degree: MSc in NHRE
-        university: Bauhaus University, Weimar, DE
+        university: Bauhaus-Universität, Weimar, DE
         time: 2019 - 2023
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Master's thesis focused on ontology methods for quality control in construction, emphasizing Ontology for Construction Quality Assurance (OCQA)
-            - Special project involved the automation of visualizing BIM models in game engines using Python and Blueprints in the UE-4 Game Engine.
+          Beschreibe dein Studium hier. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
+            - Masterarbeit konzentrierte sich auf Ontologieme-Methoden für Qualitätskontrolle im Bauwesen, betonte Ontology for Construction Quality Assurance (OCQA)
+            - Spezialprojekt beinhaltete die Automatisierung der Visualisierung von BIM-Modellen in Game Engines mit Python und Blueprints im UE-4 Game Engine.
+
       - degree: Bachelor of Civil Engineering
-        university: RGUKT, RK Valley, India
+        university: RGUKT, RK Valley, Indien
         time: 2013 - 2017
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
+          Beschreibe dein Studium hier. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
             - Bullet point
             - Bullet point
 
 skills:
   categories:
-    - name: Programming
+    - name: Programmierung
       skills:
-        - names: Python, SQL, Vanilla.js &amp Node.js (basics)
+        - names: Python, SQL, Vanilla.js &amp Node.js (Grundlagen)
 
-    - name: Databases
+    - name: Datenbanken
       skills:
-        - names: SQL Server, Data lake
+        - names: SQL Server, Data Lake
 
     - name: Cloud, ETL
       skills:
         - names: Azure Data Factory, Databricks, SAP BW 
     
-    - name: Dataanalysis
+    - name: Datenanalyse
       skills:
         - names: MS PowerBI 
 
@@ -109,20 +102,20 @@ skills:
       skills:
         - names: OpenAI, Autodesk Forge API
 
-    - name: Others
+    - name: Andere
       skills:
         - names: MS SSIS, QGIS, Autodesk Revit, Unreal Engine 4, MS Office
       
     - name: Softskills
       skills:
-        - names: Critical thinking, Problem solving, Teamwork, Communication, Time management, Adaptability, Creativity, Leadership, Empathy, Decision making, Stress management, Self-motivation,
+        - names: Kritisches Denken, Problemlösung, Teamarbeit, Kommunikation, Zeitmanagement, Anpassungsfähigkeit, Kreativität, Führung, Empathie, Entscheidungsfindung, Stressbewältigung, Selbstmotivation,
 
 
 experiences:
-    title: Experiences
+    title: Erfahrungen
     info:
-      - role: Data Analyst | BIM Technician
-        time: 07/2022 - Present
+      - role: Datenanalyst | BIM-Techniker
+        time: 07/2022 - Heute
         company: EDD-Holding, Köln
         technologies:
         - Python
@@ -134,16 +127,15 @@ experiences:
         - PowerBI
         - Databricks
         details: |
-          As a Data Analyst and BIM Technician (developer) at EDD-Holding, I specialize in leveraging various technologies to enhance the efficiency of structural engineers' workflows. 
-          Serving as the go-to professional for a team of structural engineers, I play a pivotal role in developing applications and providing valuable insights through data analysis
-          My Key Performances:
-            - Developed a solution architecture for BIM Dashboards involving ETL processes and PowerBI on MS Azure
-            - Conducted ETL operations on building data and prepared PowerBI Dashboards for comprehensive reinforcement, concrete, and CO2 assessments
-            - Implemented Autodesk Forge-based web applications, including an IFC cloud converter and a data extractor into Excel
-            - Created and deployed a construction chatbot using OpenAI embeddings and Python Flask
-            - Developed Revit Dynamo scripts for parametric updates and integrated FRILO applications with Revit Dynamo and SOFiSTiK using Python
-          
-      - role: ETL Developer - Internship
+          Als Datenanalyst und BIM-Techniker (Entwickler) bei EDD-Holding habe ich mich auf die Nutzung verschiedener Technologien spezialisiert, um die Effizienz der Arbeitsabläufe von Strukturingenieuren zu verbessern. Als Ansprechpartner für ein Team von Strukturingenieuren spiele ich eine entscheidende Rolle bei der Entwicklung von Anwendungen und der Bereitstellung wertvoller Erkenntnisse durch Datenanalyse.
+          Meine Hauptleistungen:
+            - Entwicklung einer Lösungsarchitektur für BIM-Dashboards unter Verwendung von ETL-Prozessen und PowerBI auf MS Azure
+            - Durchführung von ETL-Operationen an Gebäudedaten und Erstellung von PowerBI-Dashboards für umfassende Bewertungen von Bewehrung, Beton und CO2
+            - Implementierung von auf Autodesk Forge basierenden Webanwendungen, einschließlich eines IFC-Cloud-Konverters und eines Datenextraktors in Excel
+            - Erstellung und Bereitstellung eines Konstruktions-Chatbots unter Verwendung von OpenAI-Embeddings und Python Flask
+            - Entwicklung von Revit-Dynamo-Skripten für parametrische Updates und Integration von FRILO-Anwendungen mit Revit-Dynamo und SOFiSTiK unter Verwendung von Python
+
+      - role: ETL-Entwickler - Praktikum
         time: 05/2021 – 09/2021
         company: Hochtief Vicon GmbH, Essen
         technologies:
@@ -154,16 +146,15 @@ experiences:
         - MS SSIS       
 
         details: |
-          During my internship at Hochtief Vicon GmbH, I served as an ETL Developer, contributing to the optimization and expansion of data processing workflows. 
-          Key accomplishments during this period include:
-            - Implemented a recursive file search using Azure Data Factory
-            - Optimized an existing Azure Data Factory ETL pipeline through generalization
-            - Implemented multiple connectors in a data processing workflow MS SSIS and T-SQL
-            - Various software developments and adjustments in C# and PowerShell
+          Während meines Praktikums bei Hochtief Vicon GmbH war ich als ETL-Entwickler tätig und trug zur Optimierung und Erweiterung von Datenverarbeitungsworkflows bei. Wesentliche Erfolge in dieser Zeit sind:
+            - Implementierung einer rekursiven Dateisuche unter Verwendung von Azure Data Factory
+            - Optimierung einer vorhandenen Azure Data Factory ETL-Pipeline durch Verallgemeinerung
+            - Implementierung mehrerer Konnektoren in einem Datenverarbeitungsworkflow MS SSIS und T-SQL
+            - Verschiedene Softwareentwicklungen und Anpassungen in C# und PowerShell
 
-      - role: ETL Developer
+      - role: ETL-Entwickler
         time: 07/2017 – 09/2019
-        company: Tata Consultancy Services Ltd., Hyderabad, India
+        company: Tata Consultancy Services Ltd., Hyderabad, Indien
         technologies:
         - SQL
         - ETL
@@ -171,125 +162,14 @@ experiences:
         - SAP BW       
 
         details: |
-          In my role as an ETL Developer at Tata Consultancy Services Ltd., I played a vital role in ensuring efficient data management and seamless integration for advanced reporting.
-          Key responsibilities and achievements include:
-            - Designed and developed SQL database schemas, and optimized data storage structures for efficient loading and retrieval of data
-            - Implemented robust ETL pipelines using Informatica ETL, enabling seamless data integration from various sources into a central database for advanced reporting
-            - Collaborated with cross-functional teams to determine data migration requirements, executed migration plans, and verified data quality post-migration
-            - Monitored data loads and addressed data reconciliation issues between source and target systems in SAP BW
+          In meiner Rolle als ETL-Entwickler bei Tata Consultancy Services Ltd. spielte ich eine entscheidende Rolle für effizientes Datenmanagement und nahtlose Integration für fortgeschrittene Berichterstattung.
+          Hauptverantwortlichkeiten und Erfolge sind:
+            - Design und Entwicklung von SQL-Datenbankschemata sowie Optimierung von Datenspeicherstrukturen für effiziente Datenladung und -abfrage
+            - Implementierung robuster ETL-Pipelines unter Verwendung von Informatica ETL, um nahtlose Integration von Daten aus verschiedenen Quellen in eine zentrale Datenbank für fortgeschrittene Berichterstattung zu ermöglichen
+            - Zusammenarbeit mit interdisziplinären Teams zur Bestimmung von Datenmigrationsanforderungen, Durchführung von Migrationsplänen und Überprüfung der Datenqualität nach der Migration
+            - Überwachung von Datenladungen und Behebung von Abstimmungsproblemen zwischen Quell- und Zielsystemen in SAP BW
 
-          This experience not only refined my technical skills in database design, ETL development, and data migration but also fueled my passion for technology. 
-
-# certifications:
-#       title: Certifications
-#       list:
-#         - name: CV Builder
-#           start: 2020
-#           end: 2021
-#           organization: Microsoft
-#           credentialid: 111-222
-#           credentialurl: www.google.com
-#           credentialname: Google
-#           details: |
-#             Details about cert. Lorem ipsum dolor sit amet, consectetur
-#             adipiscing elit.
-#             Nullam eget orci purus. Nullam ultrices neque nibh.
-#             Aenean fermentum, felis vulputate suscipit accumsan,
-#             sem enim bibendum augue, sed convallis arcu lacus at dui.
-#             Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-#             Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-#             Praesent venenatis erat non augue suscipit consectetur.
-
-#             Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-#             fringilla vel. Ut euismod, sem sed vulputate venenatis,
-#             justo diam viverra velit, sed rhoncus leo leo eu justo.
-#             Suspendisse placerat risus ante, sed porta nisi blandit at.
-#         - name: Git learning
-#           start: 2019
-#           end:
-#           organization: Microsoft
-#           credentialid: 111-222
-#           credentialurl: www.github.com
-#           credentialname: Github
-#           details: |
-#             Older certification. Lorem ipsum dolor sit amet, consectetur
-#             adipiscing elit.
-#             Nullam eget orci purus. Nullam ultrices neque nibh.
-#             Aenean fermentum, felis vulputate suscipit accumsan,
-#             sem enim bibendum augue, sed convallis arcu lacus at dui.
-#             Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-#             Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-#             Praesent venenatis erat non augue suscipit consectetur.
-
-# projects:
-#     title: Projects
-#     intro: >
-#       You can list your side projects in this
-#       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-#       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-#     assignments:
-#       - title: Velocity
-#         link: "#hook"
-#         tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-#       - title: DevStudio
-#         link: "#"
-#         tagline: "A responsive website template designed to help web developers/designers market their services."
-
-#       - title: Tempo
-#         link: "#"
-#         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-#       - title: Atom
-#         link: "#"
-#         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-#       - title: Delta
-#         link: "#"
-#         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-# oss:
-#     title: OSS Contributions
-#     intro: >
-#       You can list your open source software contributions in this
-#       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-#       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-#     contributions:
-#       - title: Tempo
-#         link: "#"
-#         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-#       - title: Atom
-#         link: "#"
-#         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-#       - title: Delta
-#         link: "#"
-#         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-# publications:
-#     title: Publications
-#     intro: |
-#       You can list your publications in this section. Lorem ipsum dolor sit
-#       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-#       bibendum fringilla a eu lectus.
-#     papers:
-#       - title: The Art of Computer Programming
-#         link: "#"
-#         authors: Donald E. Knuth
-#         conference: Addison-Wesley, 1968
-
-#       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-#         link: "#"
-#         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-#         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-#       - title: A syntax directed compiler for Algol 60
-#         link: "#"
-#         authors: Edgar T. Irons
-#         conference: "Comm. ACM 4 (1961), 51–55"
-
-
+          Diese Erfahrung hat nicht nur meine technischen Fähigkeiten in den Bereichen Datenbankdesign, ETL-Entwicklung und Datenmigration verfeinert, sondern auch meine Leidenschaft für Technologie beflügelt.
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Entworfen mit <i class="fas fa-heart"></i> von <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
