@@ -8,7 +8,8 @@
     }
 
     img.avatar {
-     
+        filter: grayscale(1);
+        -webkit-filter: greyscale(1);
     }
    .main-wrapper .time {
        float: right;
@@ -22,11 +23,11 @@
     }
 
     .remove-container.container-block {
-      
+       display: none;
     }
 
     footer {
-       
+       display: none;
     }
 
     .skillset .level-bar-inner {
