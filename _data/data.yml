@@ -171,5 +171,20 @@ experiences:
 
           Diese Erfahrung hat nicht nur meine technischen Fähigkeiten in den Bereichen Datenbankdesign, ETL-Entwicklung und Datenmigration verfeinert, sondern auch meine Leidenschaft für Technologie beflügelt.
 
+projects:
+  title: Projekte
+  intro: >
+    Mit dem Ziel, mich im dynamischen Bereich der Datenverarbeitung zu profilieren, habe ich praxisnahe Projekte durchgeführt, um meine Fähigkeiten im Entwurf skalierbarer Datenarchitekturen und der Nutzung von Cloud-Technologien zu schärfen. Entdecken Sie dieses Projekt und mehr auf 
+  assignments:
+    - title: Datenverarbeitung der Olympischen Spiele in Tokio
+      link: "https://github.com/Kuladeep561/tokyo-olympic-dataengineering-project"
+      tagline: "Leitung des Designs und der Implementierung eines skalierbaren Datenlagers für die Daten der Olympischen Spiele 2021 in Tokio. Dies zeigt meine Kompetenz in Azure Cloud-Technologien und Datenanalyse."
+      technologies:
+        - Azure DF
+        - Azure Databricks
+        - Azure Data Lake Gen2
+        - Synapse
+        - Power BI"
+
 # footer: >
 #    Entworfen mit <i class="fas fa-heart"></i> von <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
