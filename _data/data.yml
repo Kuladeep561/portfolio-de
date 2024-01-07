@@ -129,7 +129,7 @@ experiences:
         details: |
           Als Datenanalyst und BIM-Techniker (Entwickler) bei EDD-Holding habe ich mich auf die Nutzung verschiedener Technologien spezialisiert, um die Effizienz der Arbeitsabläufe von Strukturingenieuren zu verbessern. Als Ansprechpartner für ein Team von Strukturingenieuren spiele ich eine entscheidende Rolle bei der Entwicklung von Anwendungen und der Bereitstellung wertvoller Erkenntnisse durch Datenanalyse.
           Meine Hauptleistungen:
-            - Entwicklung einer Lösungsarchitektur für BIM-Dashboards unter Verwendung von ETL-Prozessen und PowerBI auf MS Azure
+            - Entwicklung einer Lösungsarchitektur für BIM-Dashboards unter Verwendung von ETL-Prozessen und PowerBI auf MS Azure. (Eine replizierte Version des Projekts ist im Bereich Projekte verfügbar).
             - Durchführung von ETL-Operationen an Gebäudedaten und Erstellung von PowerBI-Dashboards für umfassende Bewertungen von Bewehrung, Beton und CO2
             - Implementierung von auf Autodesk Forge basierenden Webanwendungen, einschließlich eines IFC-Cloud-Konverters und eines Datenextraktors in Excel
             - Erstellung und Bereitstellung eines Konstruktions-Chatbots unter Verwendung von OpenAI-Embeddings und Python Flask
@@ -176,6 +176,17 @@ projects:
   intro: >
     Mit dem Ziel, mich im dynamischen Bereich der Datenverarbeitung zu profilieren, habe ich praxisnahe Projekte durchgeführt, um meine Fähigkeiten im Entwurf skalierbarer Datenarchitekturen und der Nutzung von Cloud-Technologien zu schärfen. Entdecken Sie dieses Projekt und mehr auf 
   assignments:
+    - title: Datenverarbeitung der Adventure Works
+      link: "https://github.com/Kuladeep561/adventure-works-azure-dataengineering-project"
+      tagline: "Entwicklung und Durchführung eines Projekts für Adventure Works 2022 Daten unter Verwendung von Azure-Cloud-Technologien, das ein industrielles Echtzeitprojekt widerspiegelt."
+      technologies:
+        - SQL Server
+        - Azure DF
+        - Azure Databricks
+        - Azure Data Lake Gen2
+        - Synapse
+        - Power BI
+        
     - title: Datenverarbeitung der Olympischen Spiele in Tokio
       link: "https://github.com/Kuladeep561/tokyo-olympic-dataengineering-project"
       tagline: "Leitung des Designs und der Implementierung eines skalierbaren Datenlagers für die Daten der Olympischen Spiele 2021 in Tokio. Dies zeigt meine Kompetenz in Azure Cloud-Technologien und Datenanalyse."
@@ -184,7 +195,7 @@ projects:
         - Azure Databricks
         - Azure Data Lake Gen2
         - Synapse
-        - Power BI"
+        - Power BI
 
 # footer: >
 #    Entworfen mit <i class="fas fa-heart"></i> von <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
